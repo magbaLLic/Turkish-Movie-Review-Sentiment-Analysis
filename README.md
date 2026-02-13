@@ -56,3 +56,5 @@ vasat
 
 
 This project explores sentiment classification of Turkish movie reviews using TF-IDF features and logistic regression. After addressing class imbalance and removing numeric rating leakage, the model achieved 87.2% accuracy and significantly improved minority-class recall. Feature analysis confirmed that the classifier relies on evaluative lexical cues rather than explicit rating indicators.
+
+Data: kaggle.com/datasets/mustfkeskin/turkish-movie-sentiment-analysis-dataset
